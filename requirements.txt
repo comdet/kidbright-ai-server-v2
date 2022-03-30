@@ -1,0 +1,11 @@
+tensorflow-gpu>=2.3.0
+imgaug==0.4
+opencv-python~=4.5
+sklearn
+matplotlib~=3.3
+tqdm
+pascal_voc_writer
+tf2onnx
+flask
+flask-socketio
+flask_cors
